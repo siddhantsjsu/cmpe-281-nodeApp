@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/s1ddh4nt/cmpe-281-nodeApp#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
